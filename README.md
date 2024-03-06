@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm Dasha. I am a web developer. 
+
+💬 About me: 
+I live in Moscow, I like programming, and I practice writing code every day. I'm currently looking for a job. You can contact me by 
+mail: domali@mail.ru 
+telegram: @Daryaolivka
+
+
+
 
 <!--
 **OsipovaDarya/OsipovaDarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
