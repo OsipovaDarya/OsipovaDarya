@@ -3,7 +3,7 @@
 </div>
 
 
- <h1 align="center">  Hi there 👋 I'm Dasha. I am a web-developer.</h1>
+ <h1 align="center">  Hello 👋 I'm Dasha. I am a web developer.</h1>
 
 
 
